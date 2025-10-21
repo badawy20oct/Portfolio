@@ -58,9 +58,9 @@ const HeroPage: React.FC = () => {
         transition={{ duration: 1, delay: 0.5 }}
         whileHover={{ scale: 1.05, y: -5 }}
       >
-        <div className="absolute w-[300px] h-[350px] rounded-2xl bg-gradient-to-r from-purple-500 to-indigo-500 transform translate-x-3 translate-y-3"></div>
+        <div className="absolute w-[300px] h-[350px] rounded-2xl bg-gradient-to-r from-emerald-500 to-emerald-500 transform translate-x-3 translate-y-3"></div>
         <img
-          src="/photo.jpg"
+          src="/Abdelrahman.jpg"
           alt="profile"
           className="relative w-[300px] h-[350px] object-cover rounded-2xl shadow-lg"
         />
